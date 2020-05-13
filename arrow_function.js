@@ -28,5 +28,5 @@ const retornaJSX = () => (
         <h1> Hello World </h1>
     </div>
 );
-// exemplo de retorno de uma linha com objeto
+// exemplo de retorno de uma linha com, objeto
 const retornaObjeto = () => ({ a: 2, b: 3 });
